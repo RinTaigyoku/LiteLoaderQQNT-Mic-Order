@@ -10,9 +10,8 @@
 
 <p align="center"><a href="#下载">下载</a> · <a href="#怎么用">使用方法</a> · <a href="#几个常见问题">常见问题</a> · <a href="#实现原理">实现原理</a> · <a href="#english">English</a></p>
 
-我平时用 Dubbing AI Microphone 打 QQ 电话。每次展开菜单都要在几支麦克风里找它，所以做了这个小插件。想把哪支放前面，直接在通话菜单里拖一下就行。
+我平时用 xxxxx 打 QQ 电话。每次展开菜单都要在几支麦克风里找它，所以做了这个小插件。想把哪支放前面，直接在通话菜单里拖一下就行。
 
-这是一个 Windows 上的第三方 [LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT) 插件，由 **RinTaigyoku** 维护。
 
 ## 下载
 
@@ -26,7 +25,7 @@
 2. 按住麦克风右侧的六点把手，拖到想要的位置。松开就会保存。
 3. 要切换麦克风，点设备的名字。扬声器仍在下面，按 QQ 原来的顺序显示。
 
-首次使用时，如果菜单里有 Dubbing AI Microphone，插件会把它放在第一行。之后按你自己拖好的顺序来。
+首次使用时，如果菜单里有 xxxxxxxx，插件会把它放在第一行。之后按你自己拖好的顺序来。
 
 ## 几个常见问题
 
