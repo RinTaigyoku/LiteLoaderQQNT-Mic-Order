@@ -1,0 +1,28 @@
+{
+  "manifest_version": 4,
+  "type": "extension",
+  "name": "QQ 通话麦克风排序",
+  "slug": "qq-call-mic-order",
+  "description": "在 QQ 通话设备菜单里拖动麦克风，自动记住顺序。",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "RinTaigyoku",
+      "link": "https://github.com/RinTaigyoku"
+    }
+  ],
+  "platform": [
+    "win32"
+  ],
+  "injects": {
+    "main": "./main.js"
+  },
+  "repository": {
+    "repo": "RinTaigyoku/LiteLoaderQQNT-Mic-Order",
+    "branch": "main",
+    "release": {
+      "tag": "v1.0.0",
+      "file": "qq-call-mic-order.zip"
+    }
+  }
+}
